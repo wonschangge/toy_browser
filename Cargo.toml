@@ -1,0 +1,8 @@
+[package]
+name = "toy_browser"
+version = "0.0.1"
+authors = ["wonschangge <8921018131@qq.com>"]
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
